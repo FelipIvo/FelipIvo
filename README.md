@@ -51,9 +51,10 @@ Hi! I'm Felipe, a university professor and academic researcher currently pursuin
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats-git-masterorg-gilbarbara.vercel.app/api?username=FelipIvo&show_icons=true&theme=transparent&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-git-masterorg-gilbarbara.vercel.app/api/top-langs/?username=FelipIvo&layout=compact&theme=transparent"/>
+  <img height="150em" src="https://SEU-VERCEL-APP.vercel.app/api?username=FelipIvo&show_icons=true&theme=transparent&count_private=true&cache_seconds=14400"/>
+  <img height="150em" src="https://SEU-VERCEL-APP.vercel.app/api/top-langs/?username=FelipIvo&layout=compact&theme=transparent&cache_seconds=14400"/>
 </p>
+
 ---
 
 ### 🌐 Connect with Me
