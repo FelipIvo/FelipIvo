@@ -53,8 +53,6 @@ Hi! I'm Felipe, a university professor and academic researcher currently pursuin
 <p align="center">
   <img height="150em" src="https://SEU-VERCEL-APP.vercel.app/api?username=FelipIvo&show_icons=true&theme=transparent&count_private=true&cache_seconds=14400"/>
   <img height="150em" src="https://SEU-VERCEL-APP.vercel.app/api/top-langs/?username=FelipIvo&layout=compact&theme=transparent&cache_seconds=14400"/>
-<img src="https://github-profile-trophy.vercel.app?username=matheusbezerrasantos2015-hash&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusbezerrasantos2015-hash&radius=16&theme=dracula&area=true" height="300" alt="activity-graph graph" />
 </p>
 
 
