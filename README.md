@@ -50,10 +50,7 @@ Hi! I'm Felipe, a university professor and academic researcher currently pursuin
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FelipIvo&show_icons=true&theme=transparent&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipIvo&layout=compact&theme=transparent"/>
-</p>
+<img src="https://github-readme-stats-felipeivo.vercel.app/api?username=FelipIvo" />
 
 
 ---
