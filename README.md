@@ -46,19 +46,6 @@ Hi! I'm Felipe, a university professor and academic researcher currently pursuin
   <img src="https://img.shields.io/badge/-DDI%20METADATA%20STANDARD-1565C0?style=for-the-badge&logo=semanticweb&logoColor=white"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipIvo&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-
-<img src="https://streak-stats.demolab.com?user=FelipIvo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-
-<img src="https://github-profile-trophy.vercel.app?username=FelipIvo&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipIvo&radius=16&theme=dracula&area=true" height="300" alt="activity-graph graph" />
-
-
 
 ---
 
